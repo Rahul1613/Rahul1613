@@ -1,4 +1,4 @@
-A# 💫 About Me:
+💫 About Me:
 Hi there! I’m Rahul Hiratsingh Sisode — an enthusiastic and curious AI & ML Engineering student at Gharda Institute of Technology, Mumbai University, graduating in 2026. I also hold a Diploma in Computer Science, which strengthened my technical foundation early on.<br><br>💻 I enjoy building real-world projects and exploring new technologies, especially in:<br><br>Artificial Intelligence & Machine Learning<br><br>Python development<br><br>Web development<br><br>Cybersecurity<br><br>🚀 I have completed internships involving Python programming and web design where I delivered practical solutions while learning best practices in coding and design. I’m always learning and improving through online courses and certifications from top platforms.<br><br>📫 I love collaborating, sharing knowledge, and connecting with the tech community — so feel free to reach out!
 
 
